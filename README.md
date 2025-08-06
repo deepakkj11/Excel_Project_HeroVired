@@ -1,0 +1,5 @@
+Excel indtroduction to data and problem statement
+Data Cleaning and Data Summary
+Preparation of Pivot table based on the given problem statement
+Analysis and preparation of charts
+Conclusions & Recommendations
